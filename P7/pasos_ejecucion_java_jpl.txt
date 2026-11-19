@@ -1,0 +1,70 @@
+PASOS PARA EJECUTAR UN PROGRAMA JAVA CON JPL Y SWI-PROLOG EN MACOS
+===================================================================
+
+1. INSTALAR SWI-Prolog:  (YA)
+   - Descargar desde: https://www.swi-prolog.org/Download.html
+   - Arrastrar 'SWI-Prolog.app' a la carpeta /Applications
+
+2. INSTALAR Java JDK (se usó Temurin 21): (YA)
+   - Descargar desde: https://adoptium.net/en-GB/temurin/releases/
+
+3. VERIFICAR LAS RUTAS NECESARIAS:
+   - Ruta del JDK: /Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home
+   - Ruta a jpl.jar: /Applications/SWI-Prolog.app/Contents/Resources/swipl/lib/jpl.jar
+   - Biblioteca nativa de JPL: /Applications/SWI-Prolog.app/Contents/Plugins/swipl
+   - Frameworks de SWI-Prolog: /Applications/SWI-Prolog.app/Contents/Frameworks
+   - Ruta a tu proyecto en IntelliJ (donde están las clases compiladas):
+     Ejemplo: /Users/ernestou/Downloads/Nutricion/out/production/Nutricion
+
+4. CREAR UN SCRIPT DE EJECUCIÓN:
+   - Crear un archivo llamado run_nutricion.sh
+   - Pegar el siguiente contenido dentro:
+
+------------------------------
+#!/bin/bash
+
+JAVA_HOME="/Library/Java/JavaVirtualMachines/temurin-21.jdk/Contents/Home"
+JAVA_BIN="$JAVA_HOME/bin/java"
+
+SWIPL_HOME="/Applications/SWI-Prolog.app/Contents/Resources/swipl"
+JPL_LIB="/Applications/SWI-Prolog.app/Contents/PlugIns/swipl"
+SWIPL_FRAMEWORKS="/Applications/SWI-Prolog.app/Contents/Frameworks"
+JPL_JAR="$SWIPL_HOME/lib/jpl.jar"
+
+PROJECT_CLASSES="/Users/ernestou/Downloads/Nutricion/out/production/Nutricion"
+MAIN_CLASS="nutricion.Nutricion"
+
+"$JAVA_BIN" \
+  -Djava.library.path="$JPL_LIB:$SWIPL_FRAMEWORKS" \
+  -cp "$PROJECT_CLASSES:$JPL_JAR" \
+  -Dfile.encoding=UTF-8 \
+  -DSWI_HOME_DIR="$SWIPL_HOME" \
+  -DDYLD_LIBRARY_PATH="$SWIPL_FRAMEWORKS" \
+  "$MAIN_CLASS"
+------------------------------
+
+5. DAR PERMISOS DE EJECUCIÓN:
+   Abrir Terminal en la carpeta donde está el script y ejecutar:
+   chmod +x run_nutricion.sh
+
+6. EJECUTAR:
+   ./run_nutricion.sh
+
+Eso es todo. Si las rutas son correctas y el código Java/Prolog están bien enlazados, debería funcionar correctamente.
+
+
+SINO SE CREA EL CÓDIGO.sh ::
+
+PATHS:
+	jpl.jar:          /Applications/SWI-Prolog.app/Contents/Resources/swipl/lib/jpl.jar
+	libjpl.dylib:     /Applications/SWI-Prolog.app/Contents/Plugins/swipl/libjpl.dylib
+
+REMEMBER TO ADD jpl.jar TO THE PROJECT IN DEPENDENCIES->JARs or directories
+
+REMEMBER TO SET libjpl.dylib AS A VM OPTION IN RUN->EDIT CONFIGURATIONS
+	-Djava.library.path=/Applications/SWI-Prolog.app/Contents/Plugins/swipl:/Applications/SWI-Prolog.app/Contents/Frameworks
+
+ADD TO ENVIROMENT VARIABLES
+	DYLD_LIBRARY_PATH=/Applications/SWI-Prolog.app/Contents/Frameworks
+	SWI_HOME_DIR=/Applications/SWI-Prolog.app/Contents/Resources/swipl
+

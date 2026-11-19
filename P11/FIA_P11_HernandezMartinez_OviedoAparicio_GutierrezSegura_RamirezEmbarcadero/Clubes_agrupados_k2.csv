@@ -1,0 +1,642 @@
+name,league,off,def,Class
+Argentinos Juniors,Argentina Primera Division,1.27,1.11,0
+Genoa,Italy Serie B,1.24,1.16,0
+Frosinone,Italy Serie B,1.37,1.19,0
+Cagliari,Italy Serie B,1.22,1.11,0
+Verona,Italy Serie A,1.37,1.18,0
+Udinese,Italy Serie A,1.67,1.06,0
+Torino,Italy Serie A,1.7,0.66,0
+Spezia,Italy Serie A,1.45,1.32,0
+Sassuolo,Italy Serie A,1.9,1.12,0
+Salernitana,Italy Serie A,1.48,1.36,0
+Napoli,Italy Serie A,2.3,0.51,0
+Monza,Italy Serie A,1.69,1.12,0
+Lecce,Italy Serie A,1.46,0.88,0
+Lazio,Italy Serie A,1.77,0.79,0
+Juventus,Italy Serie A,1.89,0.81,0
+Internazionale,Italy Serie A,2.33,0.76,0
+Fiorentina,Italy Serie A,2.07,0.76,0
+Empoli,Italy Serie A,1.57,1.25,0
+Cremonese,Italy Serie A,1.47,1.4,0
+Bologna,Italy Serie A,1.79,1.0,0
+Kashima Antlers,Japanese J League,1.18,1.3,0
+AS Roma,Italy Serie A,1.82,0.65,0
+Kawasaki Frontale,Japanese J League,1.39,1.44,0
+Vissel Kobe,Japanese J League,1.48,1.3,0
+Guadalajara,Mexican Primera Division,1.35,1.13,0
+Cruz Azul,Mexican Primera Division,1.32,1.13,0
+Club AmŽrica,Mexican Primera Division,1.8,1.14,0
+Atlas,Mexican Primera Division,1.41,1.14,0
+Vancouver Whitecaps,Major League Soccer,1.4,1.59,0
+Seattle Sounders FC,Major League Soccer,1.31,1.35,0
+Philadelphia Union,Major League Soccer,1.64,1.29,0
+Orlando City SC,Major League Soccer,1.35,1.47,0
+New York Red Bulls,Major League Soccer,1.13,1.18,0
+New York City FC,Major League Soccer,1.3,1.35,0
+New England Revolution,Major League Soccer,1.41,1.57,0
+Nashville SC,Major League Soccer,1.3,1.27,0
+Los Angeles FC,Major League Soccer,1.6,1.28,0
+FC Dallas,Major League Soccer,1.2,1.33,0
+FC Cincinnati,Major League Soccer,1.49,1.4,0
+DC United,Major League Soccer,1.32,1.46,0
+Columbus Crew,Major League Soccer,1.44,1.5,0
+Atlanta United FC,Major League Soccer,1.56,1.5,0
+Yokohama F. Marinos,Japanese J League,1.75,1.49,0
+Urawa Red Diamonds,Japanese J League,1.19,1.17,0
+AC Milan,Italy Serie A,2.05,0.8,0
+PAOK Salonika,Greek Super League,1.4,1.18,0
+Panathinaikos,Greek Super League,0.97,0.87,0
+Metz,French Ligue 2,1.32,1.15,0
+Bordeaux,French Ligue 2,1.12,1.12,0
+Toulouse,French Ligue 1,1.64,1.03,0
+Strasbourg,French Ligue 1,1.78,0.89,0
+Stade Rennes,French Ligue 1,2.01,0.69,0
+Reims,French Ligue 1,1.72,0.94,0
+Paris Saint-Germain,French Ligue 1,2.62,0.91,0
+Nice,French Ligue 1,1.75,0.8,0
+Nantes,French Ligue 1,1.35,1.11,0
+Montpellier,French Ligue 1,1.77,1.21,0
+Marseille,French Ligue 1,2.05,0.77,0
+Lyon,French Ligue 1,2.28,0.88,0
+Lorient,French Ligue 1,1.46,1.12,0
+Lille,French Ligue 1,2.07,0.64,0
+Lens,French Ligue 1,1.96,0.73,0
+Clermont Foot,French Ligue 1,1.61,0.94,0
+Brest,French Ligue 1,1.49,1.06,0
+Auxerre,French Ligue 1,1.33,1.21,0
+AS Monaco,French Ligue 1,1.95,1.11,0
+St Etienne,French Ligue 2,1.54,1.53,0
+FC St. Pauli,German 2. Bundesliga,1.3,1.39,0
+Hamburg SV,German 2. Bundesliga,1.53,1.75,0
+1. FC Union Berlin,German Bundesliga,1.71,0.84,0
+Olympiacos,Greek Super League,1.69,0.98,0
+Aris Salonika,Greek Super League,1.4,1.34,0
+AEK Athens,Greek Super League,1.59,0.93,0
+Werder Bremen,German Bundesliga,1.93,1.11,0
+VfL Wolfsburg,German Bundesliga,2.07,0.92,0
+VfL Bochum,German Bundesliga,1.84,1.37,0
+VfB Stuttgart,German Bundesliga,1.96,0.97,0
+TSG Hoffenheim,German Bundesliga,1.96,1.17,0
+Schalke 04,German Bundesliga,1.81,1.2,0
+Le—n,Mexican Primera Division,1.35,1.07,0
+SC Freiburg,German Bundesliga,1.91,0.99,0
+Mainz,German Bundesliga,2.11,1.02,0
+Hertha Berlin,German Bundesliga,1.71,1.36,0
+FC Cologne,German Bundesliga,2.03,0.81,0
+FC Augsburg,German Bundesliga,1.73,1.22,0
+Eintracht Frankfurt,German Bundesliga,2.07,0.88,0
+Borussia Monchengladbach,German Bundesliga,2.1,1.09,0
+Borussia Dortmund,German Bundesliga,2.83,0.84,0
+Bayern Munich,German Bundesliga,3.04,0.68,0
+Bayer Leverkusen,German Bundesliga,2.03,0.72,0
+RB Leipzig,German Bundesliga,2.39,0.7,0
+Angers,French Ligue 1,1.33,1.27,0
+Monterrey,Mexican Primera Division,1.58,0.83,0
+Santos Laguna,Mexican Primera Division,1.43,1.35,0
+Fenerbahce,Turkish Turkcell Super Lig,2.01,1.19,0
+Fatih Karagümrük,Turkish Turkcell Super Lig,1.82,1.56,0
+Besiktas,Turkish Turkcell Super Lig,2.14,1.1,0
+Adana Demirspor,Turkish Turkcell Super Lig,1.89,1.33,0
+Young Boys,Swiss Raiffeisen Super League,2.1,1.21,0
+St Gallen,Swiss Raiffeisen Super League,1.67,1.67,0
+FC Lugano,Swiss Raiffeisen Super League,1.45,1.51,0
+Basel,Swiss Raiffeisen Super League,1.39,1.58,0
+Malmo FF,Swedish Allsvenskan,1.59,1.44,0
+IF Elfsborg,Swedish Allsvenskan,1.5,1.53,0
+BK Hacken,Swedish Allsvenskan,1.77,1.64,0
+Tenerife,Spanish Segunda Division,1.0,1.09,0
+Levante,Spanish Segunda Division,1.05,1.15,0
+Villarreal,Spanish Primera Division,2.14,0.86,0
+Valencia,Spanish Primera Division,1.73,0.75,0
+Sevilla FC,Spanish Primera Division,1.81,0.77,0
+Real Valladolid,Spanish Primera Division,1.55,1.2,0
+Real Sociedad,Spanish Primera Division,1.87,0.52,0
+Real Madrid,Spanish Primera Division,2.56,0.6,0
+Galatasaray,Turkish Turkcell Super Lig,2.0,1.01,0
+Real Betis,Spanish Primera Division,1.73,0.82,0
+Istanbul Basaksehir,Turkish Turkcell Super Lig,1.39,1.1,0
+Trabzonspor,Turkish Turkcell Super Lig,1.8,1.44,0
+Shakhtar Donetsk,UEFA Europa League,1.77,1.24,0
+Red Star Belgrade,UEFA Europa League,1.75,1.19,0
+FK Qarabag,UEFA Europa League,1.41,1.25,0
+Ferencvaros,UEFA Europa League,1.61,1.22,0
+FC Sheriff Tiraspol,UEFA Europa League,1.51,1.27,0
+Dynamo Kiev,UEFA Europa League,1.51,1.19,0
+AEK Larnaca,UEFA Europa League,1.16,1.18,0
+Steaua Bucuresti,UEFA Europa Conference League,1.5,1.24,0
+Slovácko,UEFA Europa Conference League,1.77,1.21,0
+Slavia Prague,UEFA Europa Conference League,1.83,1.06,0
+SC Dnipro-1,UEFA Europa Conference League,1.55,1.28,0
+Lech Poznan,UEFA Europa Conference League,1.42,1.15,0
+Hapoel Be'er,UEFA Europa Conference League,1.49,1.34,0
+FK Partizan Belgrade,UEFA Europa Conference League,1.41,1.17,0
+CFR 1907 Cluj,UEFA Europa Conference League,1.22,1.33,0
+Apollon Limassol,UEFA Europa Conference League,1.21,1.24,0
+Viktoria Plzen,UEFA Champions League,1.82,1.41,0
+Maccabi Haifa,UEFA Champions League,1.69,1.54,0
+Dinamo Zagreb,UEFA Champions League,1.8,1.09,0
+Konyaspor,Turkish Turkcell Super Lig,1.42,1.24,0
+Rayo Vallecano,Spanish Primera Division,1.66,0.93,0
+Osasuna,Spanish Primera Division,1.63,0.8,0
+Mallorca,Spanish Primera Division,1.51,0.93,0
+Sporting CP,Portuguese Liga,2.07,0.66,0
+Santa Clara,Portuguese Liga,1.25,1.33,0
+Rio Ave,Portuguese Liga,1.25,1.22,0
+Maritimo,Portuguese Liga,1.3,1.4,0
+Guimaraes,Portuguese Liga,1.26,0.96,0
+Gil Vicente,Portuguese Liga,1.36,1.24,0
+FC Porto,Portuguese Liga,2.16,0.72,0
+FC Arouca,Portuguese Liga,1.18,1.09,0
+Famalicao,Portuguese Liga,1.44,1.24,0
+Chaves,Portuguese Liga,1.4,1.29,0
+Casa Pia,Portuguese Liga,1.24,1.2,0
+Braga,Portuguese Liga,1.78,1.02,0
+Boavista,Portuguese Liga,1.39,1.22,0
+Benfica,Portuguese Liga,2.4,0.73,0
+Rosenborg,Norwegian Tippeligaen,1.54,1.67,0
+Molde,Norwegian Tippeligaen,1.83,1.54,0
+Bodo/Glimt,Norwegian Tippeligaen,2.15,1.34,0
+Toluca,Mexican Primera Division,1.56,1.44,0
+Tigres UANL,Mexican Primera Division,1.55,0.91,0
+Vizela,Portuguese Liga,1.23,1.12,0
+CSKA Moscow,Russian Premier Liga,1.54,0.96,0
+Dinamo Moscow,Russian Premier Liga,1.43,1.4,0
+FC Krasnodar,Russian Premier Liga,1.7,1.31,0
+Girona FC,Spanish Primera Division,1.93,0.97,0
+Getafe,Spanish Primera Division,1.51,0.73,0
+Espanyol,Spanish Primera Division,1.86,1.27,0
+Elche,Spanish Primera Division,1.62,1.11,0
+Celta Vigo,Spanish Primera Division,1.72,0.77,0
+Cadiz,Spanish Primera Division,1.52,0.99,0
+Barcelona,Spanish Primera Division,2.45,0.43,0
+Atletico Madrid,Spanish Primera Division,2.26,0.67,0
+Athletic Bilbao,Spanish Primera Division,1.84,0.59,0
+Pachuca,Mexican Primera Division,1.59,1.17,0
+Almeria,Spanish Primera Division,1.69,1.18,0
+Hibernian,Scottish Premiership,1.33,1.43,0
+Hearts,Scottish Premiership,1.4,1.52,0
+Celtic,Scottish Premiership,2.53,1.07,0
+Zenit St Petersburg,Russian Premier Liga,2.02,0.73,0
+Terek Grozny,Russian Premier Liga,1.46,1.2,0
+Spartak Moscow,Russian Premier Liga,1.58,1.26,0
+Rostov,Russian Premier Liga,1.36,1.46,0
+Lokomotiv Moscow,Russian Premier Liga,1.62,1.26,0
+Gazovik Orenburg,Russian Premier Liga,1.55,1.48,0
+Rangers,Scottish Premiership,2.25,1.0,0
+Ipswich Town,English League One,1.62,1.31,0
+Atalanta,Italy Serie A,2.1,0.93,0
+Atlético Paranaense,Brasileir‹o SŽrie A,1.38,1.11,0
+Aston Villa,Barclays Premier League,2.01,0.51,0
+Brentford,Barclays Premier League,2.1,0.67,0
+Brighton and Hove Albion,Barclays Premier League,2.47,0.73,0
+Coventry City,English League Championship,1.28,1.06,0
+Chelsea,Barclays Premier League,2.04,0.68,0
+Talleres de C—rdoba,Argentina Primera Division,1.34,1.17,0
+Brondby,Danish SAS-Ligaen,1.57,1.61,0
+Everton,Barclays Premier League,1.82,1.03,0
+San Lorenzo,Argentina Primera Division,0.92,0.95,0
+Vasco da Gama,Brasileir‹o SŽrie A,1.44,1.21,0
+Santos,Brasileir‹o SŽrie A,1.26,1.04,0
+Luton Town,English League Championship,1.35,0.94,0
+S‹o Paulo,Brasileir‹o SŽrie A,1.53,0.99,0
+Fulham,Barclays Premier League,1.9,0.9,0
+River Plate,Argentina Primera Division,1.61,1.05,0
+Middlesbrough,English League Championship,1.6,1.17,0
+Millwall,English League Championship,1.33,1.25,0
+Norwich City,English League Championship,1.23,1.23,0
+Palmeiras,Brasileir‹o SŽrie A,1.78,0.78,0
+Leeds United,Barclays Premier League,1.84,1.25,0
+Sheffield United,English League Championship,1.49,1.03,0
+Burnley,English League Championship,1.53,0.82,0
+Bristol City,English League Championship,1.17,1.25,0
+Arsenal,Barclays Premier League,2.53,0.61,0
+Blackburn,English League Championship,1.18,1.23,0
+FC Copenhagen,Danish SAS-Ligaen,1.75,1.2,0
+FC Midtjylland,Danish SAS-Ligaen,1.67,1.24,0
+FC Nordsjaelland,Danish SAS-Ligaen,1.34,1.46,0
+Viborg,Danish SAS-Ligaen,1.18,1.3,0
+Ajax,Dutch Eredivisie,2.66,1.03,0
+AZ,Dutch Eredivisie,1.92,0.96,0
+FC Salzburg,Austrian T-Mobile Bundesliga,2.06,0.83,0
+FK Austria Vienna,Austrian T-Mobile Bundesliga,1.73,1.46,0
+LASK Linz,Austrian T-Mobile Bundesliga,1.53,1.3,0
+Rapid Vienna,Austrian T-Mobile Bundesliga,1.58,1.47,0
+Stoke City,English League Championship,1.25,1.15,0
+SK Sturm Graz,Austrian T-Mobile Bundesliga,1.71,1.14,0
+FC Utrecht,Dutch Eredivisie,1.78,1.25,0
+Feyenoord,Dutch Eredivisie,2.28,0.87,0
+Wolfsberger AC,Austrian T-Mobile Bundesliga,1.43,1.58,0
+Go Ahead Eagles,Dutch Eredivisie,1.65,1.39,0
+Heerenveen,Dutch Eredivisie,1.66,1.49,0
+NEC,Dutch Eredivisie,1.54,1.41,0
+PSV,Dutch Eredivisie,2.38,1.02,0
+Sparta,Dutch Eredivisie,1.7,1.25,0
+Vitesse,Dutch Eredivisie,1.65,1.08,0
+AFC Bournemouth,Barclays Premier League,1.68,1.08,0
+FC Twente,Dutch Eredivisie,2.22,0.88,0
+Sunderland,English League Championship,1.34,1.35,0
+Crystal Palace,Barclays Premier League,1.81,0.62,0
+Watford,English League Championship,1.28,1.29,0
+Swansea City,English League Championship,1.5,1.23,0
+Corinthians,Brasileir‹o SŽrie A,1.23,1.0,0
+Bragantino,Brasileir‹o SŽrie A,1.48,1.15,0
+Botafogo,Brasileir‹o SŽrie A,1.46,0.95,0
+Bahía,Brasileir‹o SŽrie A,1.25,1.25,0
+Southampton,Barclays Premier League,1.66,1.18,0
+Tottenham Hotspur,Barclays Premier League,2.19,0.95,0
+West Ham United,Barclays Premier League,1.94,0.81,0
+Atletico Mineiro,Brasileir‹o SŽrie A,1.54,0.76,0
+Nottingham Forest,Barclays Premier League,1.64,1.19,0
+Wolverhampton,Barclays Premier League,1.55,0.99,0
+Antwerp,Belgian Jupiler League,1.55,0.96,0
+América Mineiro,Brasileir‹o SŽrie A,1.31,1.34,0
+Union Saint Gilloise,Belgian Jupiler League,1.82,1.28,0
+Cercle Brugge,Belgian Jupiler League,1.62,1.38,0
+Club Brugge,Belgian Jupiler League,1.85,1.16,0
+Genk,Belgian Jupiler League,2.07,1.33,0
+KAA Gent,Belgian Jupiler League,1.93,1.1,0
+KVC Westerlo,Belgian Jupiler League,1.56,1.62,0
+OH Leuven,Belgian Jupiler League,1.44,1.53,0
+Anderlecht,Belgian Jupiler League,1.46,1.18,0
+Boca Juniors,Argentina Primera Division,1.13,1.03,0
+AGF Aarhus,Danish SAS-Ligaen,1.28,1.19,0
+Leicester City,Barclays Premier League,1.87,1.04,0
+Newcastle,Barclays Premier League,2.38,0.53,0
+Internacional,Brasileir‹o SŽrie A,1.38,1.02,0
+Manchester United,Barclays Premier League,2.35,0.74,0
+Manchester City,Barclays Premier League,2.79,0.28,0
+Grêmio,Brasileir‹o SŽrie A,1.41,1.35,0
+Fortaleza,Brasileir‹o SŽrie A,1.3,1.0,0
+Liverpool,Barclays Premier League,2.63,0.67,0
+Estudiantes,Argentina Primera Division,1.18,1.12,0
+Flamengo,Brasileir‹o SŽrie A,1.9,0.99,0
+Lanus,Argentina Primera Division,1.19,1.29,0
+West Bromwich Albion,English League Championship,1.37,1.25,0
+Fluminense,Brasileir‹o SŽrie A,1.53,1.08,0
+Cruzeiro,Brasileir‹o SŽrie A,1.36,1.19,0
+SV Ried,Austrian T-Mobile Bundesliga,0.87,1.8,1
+SK Austria Klagenfurt,Austrian T-Mobile Bundesliga,1.32,1.89,1
+Eupen,Belgian Jupiler League,0.98,2.19,1
+Ural Sverdlovsk Oblast,Russian Premier Liga,0.98,1.27,1
+Pacos Ferreira,Portuguese Liga,1.1,1.45,1
+Hartberg,Austrian T-Mobile Bundesliga,1.19,1.77,1
+Motherwell,Scottish Premiership,1.24,1.43,1
+KV Kortrijk,Belgian Jupiler League,1.08,1.8,1
+RFC Seraing,Belgian Jupiler League,0.75,1.98,1
+FC Cartagena,Spanish Segunda Division,0.89,1.53,1
+FC Andorra,Spanish Segunda Division,1.05,1.21,1
+Eibar,Spanish Segunda Division,0.91,1.22,1
+Burgos,Spanish Segunda Division,0.69,1.47,1
+Albacete,Spanish Segunda Division,1.13,1.43,1
+Torpedo Moskow,Russian Premier Liga,0.72,1.86,1
+KV Oostende,Belgian Jupiler League,1.02,2.18,1
+KV Mechelen,Belgian Jupiler League,1.45,1.85,1
+Wellington Phoenix,Australian A-League,0.79,2.36,1
+Estoril Praia,Portuguese Liga,1.16,1.38,1
+Western Sydney FC,Australian A-League,0.99,1.97,1
+Western United,Australian A-League,0.77,2.3,1
+Austria Lustenau,Austrian T-Mobile Bundesliga,1.31,1.82,1
+AlavŽs,Spanish Segunda Division,0.85,1.1,1
+Cashpoint SC Rheindorf Altach,Austrian T-Mobile Bundesliga,0.82,1.68,1
+Aberdeen,Scottish Premiership,1.14,1.43,1
+Livingston,Scottish Premiership,0.83,1.69,1
+Ross County,Scottish Premiership,0.92,1.76,1
+St Johnstone,Scottish Premiership,0.88,1.58,1
+St Mirren,Scottish Premiership,0.95,1.58,1
+AmaZulu,South African ABSA Premier League,0.4,1.81,1
+Black Aces,South African ABSA Premier League,0.56,1.65,1
+Chippa United,South African ABSA Premier League,0.25,2.16,1
+Golden Arrows,South African ABSA Premier League,0.43,1.97,1
+Kaizer Chiefs,South African ABSA Premier League,0.46,1.76,1
+Mamelodi Sundowns,South African ABSA Premier League,1.04,1.25,1
+Maritzburg Utd,South African ABSA Premier League,0.26,1.98,1
+Moroka Swallows,South African ABSA Premier League,0.24,1.77,1
+Kilmarnock,Scottish Premiership,0.91,1.63,1
+Portimonense,Portuguese Liga,1.16,1.37,1
+Orlando Pirates,South African ABSA Premier League,0.75,1.53,1
+Royal AM,South African ABSA Premier League,0.46,2.06,1
+Sekhukhune United,South African ABSA Premier League,0.24,1.61,1
+Stellenbosch FC,South African ABSA Premier League,0.64,1.83,1
+SuperSport United,South African ABSA Premier League,0.45,1.55,1
+TS Galaxy,South African ABSA Premier League,0.37,1.59,1
+FK Nizhny Novgorod,Russian Premier Liga,0.92,1.36,1
+FC Khimki,Russian Premier Liga,0.82,1.87,1
+Dundee Utd,Scottish Premiership,0.87,1.85,1
+Fakel Voronezh,Russian Premier Liga,1.01,1.43,1
+Krylia Sovetov,Russian Premier Liga,1.02,1.33,1
+Sochi,Russian Premier Liga,1.11,1.5,1
+WSG Swarovski Wattens,Austrian T-Mobile Bundesliga,1.33,1.78,1
+Richards Bay,South African ABSA Premier League,0.2,1.95,1
+Tshakhuma Tsha Madzivhandila,South African ABSA Premier League,0.25,1.91,1
+SD Huesca,Spanish Segunda Division,0.73,1.36,1
+Las Palmas,Spanish Segunda Division,0.91,1.27,1
+Banfield,Argentina Primera Division,0.92,1.29,1
+Barracas Central,Argentina Primera Division,0.87,1.48,1
+Belgrano Cordoba,Argentina Primera Division,0.9,1.4,1
+CA Independiente,Argentina Primera Division,1.04,1.38,1
+Zalgiris Vilnius,UEFA Europa Conference League,1.1,1.79,1
+Central C—rdoba Santiago del Estero,Argentina Primera Division,0.87,1.47,1
+Slovan Bratislava,UEFA Europa Conference League,1.12,1.44,1
+Colon Santa Fe,Argentina Primera Division,1.04,1.4,1
+Defensa y Justicia,Argentina Primera Division,1.09,1.29,1
+Shamrock Rovers,UEFA Europa Conference League,0.69,1.84,1
+Rigas Futbola Skola,UEFA Europa Conference League,1.16,1.8,1
+Pyunik Yerevan,UEFA Europa Conference League,0.87,1.9,1
+Gimnasia La Plata,Argentina Primera Division,0.86,1.36,1
+Godoy Cruz,Argentina Primera Division,1.0,1.39,1
+Hurac‡n,Argentina Primera Division,0.9,1.2,1
+Instituto,Argentina Primera Division,1.0,1.5,1
+Ballkani,UEFA Europa Conference League,1.2,1.76,1
+Newell's Old Boys,Argentina Primera Division,0.84,1.09,1
+Platense,Argentina Primera Division,0.85,1.32,1
+Racing Club,Argentina Primera Division,1.17,1.48,1
+Umraniyespor,Turkish Turkcell Super Lig,1.14,1.77,1
+Sivasspor,Turkish Turkcell Super Lig,1.25,1.53,1
+Rosario Central,Argentina Primera Division,1.11,1.38,1
+HJK Helsinki,UEFA Europa League,0.94,1.71,1
+Kayserispor,Turkish Turkcell Super Lig,1.38,1.71,1
+Ludogorets,UEFA Europa League,1.3,1.49,1
+AtlŽtico Tucum‡n,Argentina Primera Division,0.93,1.41,1
+San Diego Loyal SC,United Soccer League,0.95,2.0,1
+San Antonio FC,United Soccer League,0.88,1.74,1
+Sacramento Republic FC,United Soccer League,0.79,1.81,1
+Rio Grande Valley FC Toros,United Soccer League,0.41,2.21,1
+Pittsburgh Riverhounds,United Soccer League,0.51,1.82,1
+Orange County SC,United Soccer League,0.58,1.99,1
+Oakland Roots,United Soccer League,0.75,1.98,1
+New Mexico United,United Soccer League,0.67,2.04,1
+Monterey Bay,United Soccer League,0.47,2.17,1
+Miami FC,United Soccer League,0.53,2.11,1
+Memphis 901 FC,United Soccer League,0.95,2.1,1
+Louisville City FC,United Soccer League,0.83,1.77,1
+Loudoun United FC,United Soccer League,0.36,2.47,1
+Las Vegas Lights FC,United Soccer League,0.41,2.26,1
+Indy Eleven,United Soccer League,0.43,2.11,1
+Hartford Athletic,United Soccer League,0.56,2.36,1
+El Paso Locomotive FC,United Soccer League,0.72,2.0,1
+Detroit City FC,United Soccer League,0.27,2.08,1
+Colorado Springs Switchbacks FC,United Soccer League,0.77,1.92,1
+Charleston Battery,United Soccer League,0.45,2.22,1
+Birmingham Legion FC,United Soccer League,0.66,2.19,1
+Arizona United,United Soccer League,0.87,1.98,1
+Arsenal Sarandi,Argentina Primera Division,0.75,1.54,1
+Omonia Nicosia,UEFA Europa League,1.25,1.57,1
+Granada,Spanish Segunda Division,0.99,1.19,1
+Kasimpasa,Turkish Turkcell Super Lig,1.3,1.59,1
+Hatayspor,Turkish Turkcell Super Lig,0.58,2.29,1
+IFK Goteborg,Swedish Allsvenskan,0.8,1.8,1
+Melbourne Victory,Australian A-League,0.77,1.9,1
+Hammarby,Swedish Allsvenskan,1.21,1.75,1
+Halmstads BK,Swedish Allsvenskan,0.64,1.94,1
+Djurgardens IF,Swedish Allsvenskan,1.21,1.58,1
+Degerfors IF,Swedish Allsvenskan,0.68,2.29,1
+Brommapojkarna,Swedish Allsvenskan,0.7,1.91,1
+Newcastle Jets,Australian A-League,0.68,2.28,1
+AIK,Swedish Allsvenskan,0.84,1.7,1
+Villarreal B,Spanish Segunda Division,0.98,1.56,1
+UD Ibiza,Spanish Segunda Division,0.71,1.66,1
+Perth Glory,Australian A-League,0.58,2.3,1
+Sporting Gij—n,Spanish Segunda Division,0.85,1.48,1
+SD Ponferradina,Spanish Segunda Division,0.77,1.55,1
+Viking FK,Norwegian Tippeligaen,1.52,1.98,1
+Real Zaragoza,Spanish Segunda Division,0.92,1.17,1
+Real Oviedo,Spanish Segunda Division,0.78,1.28,1
+Racing Santander,Spanish Segunda Division,0.85,1.44,1
+Mirandes,Spanish Segunda Division,0.86,1.56,1
+M‡laga,Spanish Segunda Division,0.79,1.34,1
+Lugo,Spanish Segunda Division,0.58,1.64,1
+Sydney FC,Australian A-League,1.05,2.03,1
+Leganes,Spanish Segunda Division,0.86,1.33,1
+IFK Norrkoping,Swedish Allsvenskan,1.08,1.78,1
+Istanbulspor,Turkish Turkcell Super Lig,1.17,1.61,1
+IFK Värnamo,Swedish Allsvenskan,0.58,1.91,1
+Kalmar FF,Swedish Allsvenskan,0.96,1.64,1
+Giresunspor,Turkish Turkcell Super Lig,1.06,1.68,1
+Gazisehir Gaziantep,Turkish Turkcell Super Lig,0.71,2.05,1
+Sarmiento,Argentina Primera Division,0.93,1.43,1
+Tigre,Argentina Primera Division,1.09,1.36,1
+Union Santa Fe,Argentina Primera Division,0.85,1.46,1
+Antalyaspor,Turkish Turkcell Super Lig,1.18,1.48,1
+Ankaragucu,Turkish Turkcell Super Lig,1.06,1.48,1
+Alanyaspor,Turkish Turkcell Super Lig,1.42,1.88,1
+Velez Sarsfield,Argentina Primera Division,0.97,1.14,1
+Adelaide United,Australian A-League,1.06,2.3,1
+Winterthur,Swiss Raiffeisen Super League,0.81,1.86,1
+Brisbane Roar,Australian A-League,0.6,2.07,1
+Servette,Swiss Raiffeisen Super League,1.33,1.61,1
+Grasshoppers Zürich,Swiss Raiffeisen Super League,1.39,1.95,1
+FC Zurich,Swiss Raiffeisen Super League,1.35,1.57,1
+FC Vaduz,Swiss Raiffeisen Super League,0.96,1.63,1
+FC Sion,Swiss Raiffeisen Super League,0.96,2.19,1
+FC Luzern,Swiss Raiffeisen Super League,1.32,1.65,1
+Central Coast Mariners,Australian A-League,1.27,2.03,1
+Macarthur FC,Australian A-League,0.63,2.55,1
+Varbergs BoIS FC,Swedish Allsvenskan,0.49,2.27,1
+Mjallby,Swedish Allsvenskan,0.57,1.64,1
+Melbourne City,Australian A-League,1.32,1.93,1
+IK Sirius,Swedish Allsvenskan,0.79,1.94,1
+Valerenga,Norwegian Tippeligaen,1.24,1.76,1
+Charlton Athletic,English League One,0.98,1.94,1
+Stromsgodset,Norwegian Tippeligaen,0.99,1.89,1
+1. FC Heidenheim 1846,German 2. Bundesliga,1.22,1.57,1
+Valenciennes,French Ligue 2,0.9,1.62,1
+US Quevilly,French Ligue 2,0.96,1.66,1
+Huddersfield Town,English League Championship,0.97,1.41,1
+Sochaux,French Ligue 2,1.02,1.47,1
+Rodez,French Ligue 2,0.75,1.44,1
+Pau,French Ligue 2,0.92,1.75,1
+Paris FC,French Ligue 2,1.06,1.34,1
+Niort,French Ligue 2,0.71,1.98,1
+Nimes,French Ligue 2,1.01,1.91,1
+Hull City,English League Championship,1.05,1.31,1
+Le Havre,French Ligue 2,0.78,1.01,1
+Laval,French Ligue 2,0.83,1.75,1
+Guingamp,French Ligue 2,1.13,1.4,1
+Grenoble,French Ligue 2,0.61,1.23,1
+Dijon FCO,French Ligue 2,0.85,1.44,1
+Caen,French Ligue 2,1.18,1.44,1
+Bastia,French Ligue 2,1.2,1.42,1
+Annecy,French Ligue 2,0.79,1.75,1
+Amiens,French Ligue 2,0.83,1.63,1
+Troyes,French Ligue 1,1.23,1.7,1
+1. FC Kaiserslautern,German 2. Bundesliga,1.02,1.65,1
+1. FC Magdeburg,German 2. Bundesliga,1.08,1.88,1
+1. FC Nürnberg,German 2. Bundesliga,0.8,1.72,1
+Arminia Bielefeld,German 2. Bundesliga,1.14,1.96,1
+Atromitos,Greek Super League,0.71,1.48,1
+Asteras Tripolis,Greek Super League,0.5,1.42,1
+Emmen,Dutch Eredivisie,1.25,1.77,1
+Excelsior,Dutch Eredivisie,1.26,1.75,1
+FC Groningen,Dutch Eredivisie,1.24,1.73,1
+FC Volendam,Dutch Eredivisie,1.47,1.78,1
+Fortuna Sittard,Dutch Eredivisie,1.36,1.71,1
+RKC,Dutch Eredivisie,1.45,1.76,1
+Birmingham,English League Championship,1.02,1.4,1
+Blackpool,English League Championship,1.06,1.7,1
+Preston North End,English League Championship,1.12,1.41,1
+SV Sandhausen,German 2. Bundesliga,0.72,2.04,1
+SpVgg Greuther Fürth,German 2. Bundesliga,1.12,1.55,1
+SC Paderborn,German 2. Bundesliga,1.44,1.69,1
+Karlsruher SC,German 2. Bundesliga,1.32,1.67,1
+Jahn Regensburg,German 2. Bundesliga,0.9,1.92,1
+Holstein Kiel,German 2. Bundesliga,1.33,1.91,1
+Hansa Rostock,German 2. Bundesliga,0.77,1.77,1
+Hannover 96,German 2. Bundesliga,1.07,1.98,1
+Cardiff City,English League Championship,1.04,1.41,1
+Fortuna Düsseldorf,German 2. Bundesliga,1.27,1.58,1
+Eintracht Braunschweig,German 2. Bundesliga,0.88,2.02,1
+SV Darmstadt 98,German 2. Bundesliga,1.07,1.58,1
+Giannina,Greek Super League,0.72,1.72,1
+Queens Park Rangers,English League Championship,1.04,1.54,1
+Rotherham United,English League Championship,0.96,1.48,1
+Carlisle United,English League Two,0.39,1.86,1
+Bradford City,English League Two,0.48,1.97,1
+Barrow,English League Two,0.2,2.06,1
+AFC Wimbledon,English League Two,0.24,2.3,1
+Wycombe Wanderers,English League One,0.78,1.72,1
+Shrewsbury Town,English League One,0.63,1.87,1
+Sheffield Wednesday,English League One,1.12,1.45,1
+Portsmouth,English League One,0.82,1.57,1
+Port Vale,English League One,0.61,2.16,1
+Plymouth Argyle,English League One,1.02,1.66,1
+Peterborough United,English League One,1.01,1.68,1
+Oxford United,English League One,0.64,1.76,1
+Morecambe,English League One,0.58,2.26,1
+Milton Keynes Dons,English League One,0.58,1.86,1
+Lincoln City,English League One,0.61,1.57,1
+Burton Albion,English League One,0.74,2.01,1
+Forest Green Rovers,English League One,0.2,2.38,1
+Fleetwood Town,English League One,0.76,1.75,1
+Exeter City,English League One,0.85,1.98,1
+Derby County,English League One,0.94,1.6,1
+Cheltenham Town,English League One,0.67,1.99,1
+Colchester United,English League Two,0.27,1.91,1
+Crawley Town,English League Two,0.2,2.41,1
+Crewe Alexandra,English League Two,0.36,2.25,1
+Doncaster Rovers,English League Two,0.2,2.35,1
+Wigan,English League Championship,0.92,1.32,1
+Accrington Stanley,English League One,0.39,2.28,1
+Barnsley,English League One,1.26,1.67,1
+Bolton,English League One,0.89,1.42,1
+Bristol Rovers,English League One,0.65,2.07,1
+AC Ajaccio,French Ligue 1,1.0,1.29,1
+Walsall,English League Two,0.2,2.11,1
+Tranmere Rovers,English League Two,0.2,2.02,1
+Swindon Town,English League Two,0.56,2.17,1
+Sutton United,English League Two,0.23,2.26,1
+Reading,English League Championship,0.9,1.58,1
+Stockport County,English League Two,0.49,1.72,1
+Salford City,English League Two,0.78,2.16,1
+Rochdale,English League Two,0.36,2.4,1
+Northampton Town,English League Two,0.34,1.88,1
+Newport County,English League Two,0.49,2.11,1
+Mansfield Town,English League Two,0.71,2.08,1
+Leyton Orient,English League Two,0.39,1.84,1
+Hartlepool,English League Two,0.38,2.56,1
+Harrogate Town,English League Two,0.54,2.43,1
+Grimsby Town,English League Two,0.26,2.15,1
+Gillingham,English League Two,0.27,1.94,1
+Stevenage,English League Two,0.36,1.9,1
+Tromso,Norwegian Tippeligaen,1.08,1.69,1
+Ionikos FC,Greek Super League,0.58,1.77,1
+Levadiakos,Greek Super League,0.61,1.83,1
+Cuiaba,Brasileir‹o SŽrie A,1.09,1.22,1
+San Jose Earthquakes,Major League Soccer,1.27,1.62,1
+Real Salt Lake,Major League Soccer,1.09,1.61,1
+Portland Timbers,Major League Soccer,1.29,1.54,1
+Goiás,Brasileir‹o SŽrie A,1.11,1.36,1
+Montreal Impact,Major League Soccer,1.21,1.57,1
+Minnesota United FC,Major League Soccer,1.28,1.58,1
+Los Angeles Galaxy,Major League Soccer,1.4,1.7,1
+Inter Miami CF,Major League Soccer,1.05,1.77,1
+Houston Dynamo,Major League Soccer,1.21,1.71,1
+Beijing Guoan,Chinese Super League,0.98,1.99,1
+Colorado Rapids,Major League Soccer,1.08,1.59,1
+Chicago Fire,Major League Soccer,1.18,1.63,1
+Charlotte FC,Major League Soccer,1.24,1.66,1
+Austin FC,Major League Soccer,1.24,1.73,1
+Chongqing Lifan,Chinese Super League,0.3,2.35,1
+Yokohama FC,Japanese J League,0.65,2.0,1
+Dalian Aerbin,Chinese Super League,0.51,2.51,1
+Guangzhou Evergrande,Chinese Super League,1.08,1.93,1
+Guangzhou RF,Chinese Super League,0.66,2.86,1
+Shonan Bellmare,Japanese J League,0.83,1.74,1
+Sporting Kansas City,Major League Soccer,1.16,1.46,1
+St. Louis CITY SC,Major League Soccer,1.12,1.72,1
+Toronto FC,Major League Soccer,1.17,1.51,1
+Coritiba,Brasileir‹o SŽrie A,1.09,1.35,1
+Stabaek,Norwegian Tippeligaen,0.94,1.85,1
+SK Brann,Norwegian Tippeligaen,1.3,1.63,1
+Sarpsborg,Norwegian Tippeligaen,1.14,1.76,1
+Sandefjord,Norwegian Tippeligaen,0.91,2.11,1
+Sporting de Charleroi,Belgian Jupiler League,1.32,1.54,1
+Odd BK,Norwegian Tippeligaen,0.91,1.62,1
+St. Truidense,Belgian Jupiler League,1.08,1.26,1
+Lillestrom,Norwegian Tippeligaen,1.32,1.64,1
+Haugesund,Norwegian Tippeligaen,0.87,1.86,1
+Hamarkamaratene,Norwegian Tippeligaen,0.68,2.08,1
+Sanfrecce Hiroshima,Japanese J League,1.17,1.41,1
+Standard Liege,Belgian Jupiler League,1.37,1.58,1
+SV Zulte Waregem,Belgian Jupiler League,1.35,2.32,1
+Tijuana,Mexican Primera Division,1.18,1.5,1
+QuerŽtaro,Mexican Primera Division,0.98,1.39,1
+Pumas Unam,Mexican Primera Division,1.25,1.47,1
+Puebla,Mexican Primera Division,1.32,1.52,1
+Necaxa,Mexican Primera Division,1.05,1.32,1
+Cambridge United,English League One,0.4,1.98,1
+Mazatl‡n FC,Mexican Primera Division,1.12,1.66,1
+FC Ju‡rez,Mexican Primera Division,1.02,1.36,1
+AtlŽtico San Luis,Mexican Primera Division,1.18,1.44,1
+Aalesund,Norwegian Tippeligaen,0.71,1.98,1
+Lamia,Greek Super League,0.47,1.85,1
+Sagan Tosu,Japanese J League,0.92,1.46,1
+Kyoto Purple Sanga,Japanese J League,0.83,1.68,1
+Benevento,Italy Serie B,0.77,1.67,1
+Bari,Italy Serie B,1.1,1.32,1
+Ascoli,Italy Serie B,0.84,1.5,1
+Shanghai Greenland,Chinese Super League,0.56,2.47,1
+Shanghai SIPG,Chinese Super League,0.9,1.92,1
+Shenzhen FC,Chinese Super League,0.4,2.6,1
+Tianjin Quanujian,Chinese Super League,0.37,2.51,1
+Tianjin Teda,Chinese Super League,0.5,2.26,1
+Sampdoria,Italy Serie A,1.36,1.57,1
+Wuhan Zall,Chinese Super League,0.39,2.32,1
+AaB,Danish SAS-Ligaen,0.99,1.58,1
+AC Horsens,Danish SAS-Ligaen,0.88,1.98,1
+Lyngby,Danish SAS-Ligaen,0.86,1.61,1
+Odense BK,Danish SAS-Ligaen,1.35,1.65,1
+Randers FC,Danish SAS-Ligaen,1.18,1.63,1
+Tampa Bay Rowdies,United Soccer League,0.88,1.9,1
+Silkeborg,Danish SAS-Ligaen,1.37,1.59,1
+Volos NFC,Greek Super League,0.67,1.9,1
+Panetolikos,Greek Super League,0.63,1.97,1
+Cambuur Leeuwarden,Dutch Eredivisie,1.25,1.86,1
+OFI Crete,Greek Super League,0.9,1.62,1
+Brescia,Italy Serie B,0.74,1.74,1
+Shandong Luneng,Chinese Super League,0.82,2.22,1
+Cittadella,Italy Serie B,0.7,1.42,1
+Como,Italy Serie B,1.05,1.5,1
+Guizhou Renhe,Chinese Super League,0.2,2.61,1
+Kashiwa Reysol,Japanese J League,0.91,1.75,1
+Hebei China Fortune FC,Chinese Super League,0.5,2.43,1
+Gamba Osaka,Japanese J League,0.92,1.82,1
+FC Tokyo,Japanese J League,1.17,1.74,1
+Consadole Sapporo,Japanese J League,1.59,2.01,1
+Cerezo Osaka,Japanese J League,1.09,1.38,1
+Avispa Fukuoka,Japanese J League,0.78,1.56,1
+Albirex Niigata,Japanese J League,0.82,1.93,1
+Ternana,Italy Serie B,0.85,1.74,1
+Nagoya Grampus Eight,Japanese J League,1.11,1.27,1
+Sudtirol,Italy Serie B,0.7,1.15,1
+Reggina,Italy Serie B,0.84,1.56,1
+Pisa,Italy Serie B,0.93,1.44,1
+Perugia,Italy Serie B,0.84,1.67,1
+Parma,Italy Serie B,1.11,1.27,1
+Palermo,Italy Serie B,1.05,1.66,1
+Modena,Italy Serie B,0.92,1.67,1
+Henan Jianye,Chinese Super League,0.46,2.36,1
+Jiangsu Suning FC,Chinese Super League,0.71,2.04,1
+F.B.C Unione Venezia,Italy Serie B,1.24,1.53,1
+Cosenza,Italy Serie B,0.54,1.57,1
+Spal,Italy Serie B,0.83,1.65,1
+Tulsa Roughnecks,United Soccer League,0.49,2.37,1

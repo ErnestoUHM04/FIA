@@ -1,0 +1,59 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+
+# IDE and editor state
+.idea/
+*.iml
+
+# Generated build output
+build/
+dist/
+out/
+target/
+*.class
+*.dSYM/
+*.o
+*.a
+*.app/
+*.exe
+
+# Extensionless macOS build outputs in this repository
+/P2/FIA_P2
+/P2/FIA_P2_V2
+/P4/connect4
+/P4/connect4_V2
+/P4/FIA P4 HernandezMartinez OviedoAparicio/connect4_V2
+/democ/ADA_T23_Ml
+/democ/demo
+
+# Python cache, virtual environments, and generated models
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.joblib
+
+# Local environment and private keys
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Coursework documents and media
+*.doc
+*.docx
+*.mov
+*.mp4
+*.zip

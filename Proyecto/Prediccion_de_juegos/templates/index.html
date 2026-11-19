@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Recommendation System</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <h1>Game Recommendation System</h1>
+    <p>Selecciona exactamente 5 juegos para obtener recomendaciones basadas en ellos.</p>
+    <input type="text" id="gameSearch" placeholder="Buscar juegos..." />
+    <button onclick="searchGames()">Buscar</button>
+
+    <h3>Resultados de la búsqueda:</h3>
+    <div id="searchResults"></div>
+
+    <h3>Juegos seleccionados:</h3>
+    <div id="selectedGames"></div>
+
+    <button onclick="getRecommendations()" id="recommendButton" disabled>Obtener recomendaciones</button>
+    <h3>Recomendaciones:</h3>
+    <div id="recommendations"></div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

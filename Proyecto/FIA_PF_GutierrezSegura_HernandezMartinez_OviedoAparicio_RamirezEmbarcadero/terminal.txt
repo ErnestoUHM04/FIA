@@ -1,0 +1,65 @@
+K-Nearest Neighbors:
+  Accuracy: 0.959 | Precisión: 0.974 | Recall: 0.881 | F1-score: 0.925
+
+Árbol de Decisión:
+  Accuracy: 0.942 | Precisión: 0.887 | Recall: 0.911 | F1-score: 0.899
+
+Naive Bayes:
+  Accuracy: 0.922 | Precisión: 0.995 | Recall: 0.727 | F1-score: 0.840
+
+K-Means: coeficiente de silueta = 0.013
+Cluster 0 asignado a etiqueta ham
+Cluster 1 asignado a etiqueta spam
+
+K-Means post-hoc contra etiquetas reales:
+  Accuracy: 0.710 | Precisión: 0.000 | Recall: 0.000 | F1-score: 0.000
+
+ID correo (0-5170) o 'salir': 100
+
+Predicciones para ID=100:
+  K-Nearest Neighbors: ham
+  Árbol de Decisión: ham
+  Naive Bayes: ham
+  K-Means cluster=1 (etiqueta asignada: ham)
+
+ID correo (0-5170) o 'salir': 5
+
+Predicciones para ID=5:
+  K-Nearest Neighbors: ham
+  Árbol de Decisión: ham
+  Naive Bayes: ham
+  K-Means cluster=1 (etiqueta asignada: ham)
+
+ID correo (0-5170) o 'salir': 4150
+
+Predicciones para ID=4150:
+  K-Nearest Neighbors: ham
+  Árbol de Decisión: ham
+  Naive Bayes: ham
+  K-Means cluster=0 (etiqueta asignada: ham)
+
+ID correo (0-5170) o 'salir': 700
+
+Predicciones para ID=700:
+  K-Nearest Neighbors: ham
+  Árbol de Decisión: ham
+  Naive Bayes: ham
+  K-Means cluster=0 (etiqueta asignada: ham)
+
+ID correo (0-5170) o 'salir': 5020
+
+Predicciones para ID=5020:
+  K-Nearest Neighbors: ham
+  Árbol de Decisión: ham
+  Naive Bayes: ham
+  K-Means cluster=0 (etiqueta asignada: ham)
+
+ID correo (0-5170) o 'salir': 3333
+
+Predicciones para ID=3333:
+  K-Nearest Neighbors: spam
+  Árbol de Decisión: spam
+  Naive Bayes: spam
+  K-Means cluster=1 (etiqueta asignada: ham)
+
+ID correo (0-5170) o 'salir': salir

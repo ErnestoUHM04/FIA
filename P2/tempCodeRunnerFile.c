@@ -1,0 +1,2 @@
+
+int DestruirPila(Pila *p);
