@@ -57,3 +57,7 @@ id_ed25519
 *.mov
 *.mp4
 *.zip
+*.au
+*.wav
+*.mp3
+*.aiff
